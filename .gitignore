@@ -328,3 +328,13 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# =========================
+# Siv3D
+# =========================
+
+# Siv3D
+[Ee]ngine/
+[Ee]xample/
+[Ss]creenshot/
+*.html
